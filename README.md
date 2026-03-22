@@ -7,7 +7,7 @@
 ![Windows 11 Ready](https://img.shields.io/badge/Windows-11_Ready-0078D4?style=for-the-badge&logo=windows)
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python)
 ![PyQt6](https://img.shields.io/badge/PyQt6-UI-41CD52?style=for-the-badge&logo=qt)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+![License](https://img.shields.io/badge/License-GNU_GPLv3-blue?style=for-the-badge)
 
 *A lightweight, modern Windows desktop application that protects your laptop's battery lifespan by alerting you before it overcharges.*
 
@@ -106,4 +106,4 @@ The compiled binary will be placed inside the `dist/` folder.
 
 ## 📜 License
 
-This project is licensed under the **MIT License**. Feel free to fork, modify, and use it in your own projects!
+This project is licensed under the **GNU General Public License v3.0**. Feel free to fork, modify, and use it in your own projects!

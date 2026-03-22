@@ -10,7 +10,6 @@ build/
 dist/
 
 # Executables
-*.exe
 *.lnk
 
 # VS Code / IDEs
