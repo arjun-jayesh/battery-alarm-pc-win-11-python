@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyInstaller
+*.manifest
+*.spec
+build/
+dist/
+
+# Executables
+*.exe
+*.lnk
+
+# VS Code / IDEs
+.vscode/
+.idea/
+
+# OS generated files
+.DS_Store
+Thumbs.db

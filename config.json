@@ -1,0 +1,5 @@
+{
+  "target_percent": 80,
+  "alarm_enabled": true,
+  "start_on_startup": true
+}
